@@ -2,4 +2,4 @@
 This is my first git Repo
 
 # Content
-This Demo_repo include only some basic practise for learning beginner level of Git & Github.
+This Demo_repo includes only some basic practice for learning the beginner level of Git & Github.
